@@ -1,3 +1,4 @@
-# every_day_calendar_flutter
+Every Day Calendar
+==================
 
-Mobile app version of the Every Day Calendar by Simone Giertz, implemented in Flutter
+This is a Flutter app version of the [Every Day Calendar](https://www.kickstarter.com/projects/simonegiertz/the-every-day-calendar) created by [Simone Giertz](http://www.simonegiertz.com/).
